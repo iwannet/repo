@@ -1,0 +1,12 @@
+Package: com.iwannet.ultracam
+Name: Ultracam
+Author: @iwannet <(null)>
+Description: Make the camera an ultra zoom camera
+Depends: mobilesubstrate
+Maintainer: @iwannet.mail@gmail.com <(null)>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Filename:./debfiles/com.iwannet.ultracam_0.0.1_iphoneos-arm.deb
+Size: 5
+Homepage: https://iwannet.github.io/
